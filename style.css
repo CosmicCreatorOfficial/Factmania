@@ -1,3 +1,44 @@
 body {
     background-color: #ffdca0;
 }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.navbar-links {
+    list-style: none;
+    display: flex;
+}
+
+.navbar-links li {
+    padding: 10px;
+}
+
+.navbar-links li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Add more styles as needed */
+
