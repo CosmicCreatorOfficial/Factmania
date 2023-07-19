@@ -8,8 +8,8 @@ body {
 }
 
 .navbar {
-    background-color: #F05C07;
-    color: #fff;
+    background-color: transparent;
+    color: #F05C07;
     display: flex;
     align-items: center;
     justify-content: space-between;
