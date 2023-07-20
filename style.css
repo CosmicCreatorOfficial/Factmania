@@ -13,6 +13,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 10px;
+    margin-right:5px;
 }
 
 .navbar-brand {
