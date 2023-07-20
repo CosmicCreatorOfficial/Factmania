@@ -1,13 +1,10 @@
 body {
     background-color: #ffdca0;
     font-family: 'Lilita One', cursive;
-
 }
 body {
     margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
+    padding: 0;}
 
 .navbar {
     background-color: transparent;
